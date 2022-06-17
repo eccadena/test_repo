@@ -1,4 +1,4 @@
-# Create a GitHub Repository
+# Create a GitHub Repositor
 
 In this activity, you’ll get additional practice with creating a repository via the terminal.
 
